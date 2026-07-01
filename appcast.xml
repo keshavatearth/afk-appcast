@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>AFK</title>
+    <description>On-device dictation for macOS.</description>
+    <item>
+      <title>AFK 0.2.0</title>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 01 Jul 2026 15:27:32 +0000</pubDate>
+      <enclosure
+        url="https://github.com/keshavatearth/afk-appcast/releases/download/v0.2.0/AFK-0.2.0.dmg"
+        sparkle:edSignature="7gcnapiUVudrB0O6mkN9JDE5+0BgeXvWj9PCGtdpZ65LDScyucyVIDdmrD09rhbEqahqP110k8SmTkzGDvEqDQ=="
+        length="5211586"
+        type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
