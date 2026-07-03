@@ -4,6 +4,27 @@
     <title>AFK</title>
     <description>On-device dictation for macOS.</description>
     <item>
+      <title>AFK 0.2.1</title>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h3>Recoverable speech-model setup</h3>
+        <p>If the first-run speech-model download stalls, you now see what's happening and can fix it:</p>
+        <ul>
+          <li><b>Live progress + status</b> on Home, Transcribe, and Instructions &mdash; no more silent &ldquo;Preparing the model&hellip;&rdquo;.</li>
+          <li><b>Retry button</b> that resumes the download instead of leaving you stuck.</li>
+          <li>The download now reliably starts even if onboarding was skipped.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 03 Jul 2026 09:28:01 +0000</pubDate>
+      <enclosure
+        url="https://github.com/keshavatearth/afk-appcast/releases/download/v0.2.1/AFK-0.2.1.dmg"
+        sparkle:edSignature="Y60sepXFTnCJ150o2ECxCB3ZNvM2mfKIElwFUcwV0WgHSCVADGeOkwvsCz8hWWrtSR7hfxNni24gyKgKQXDaCg=="
+        length="5237888"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>AFK 0.2.0</title>
       <sparkle:version>2</sparkle:version>
       <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
