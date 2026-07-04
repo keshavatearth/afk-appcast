@@ -4,6 +4,26 @@
     <title>AFK</title>
     <description>On-device dictation for macOS.</description>
     <item>
+      <title>AFK 0.3.0</title>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h3>Word-level timestamps + shareable scoreboard</h3>
+        <ul>
+          <li><b>Timestamps view</b> on file transcripts &mdash; toggle to see every segment with mm:ss times.</li>
+          <li><b>Export as .srt or .json</b> from the Save menu (subtitles, video editing, or your own scripts). Also in the CLI: <code>afk transcribe file --srt | --json</code>.</li>
+          <li><b>Share card</b> &mdash; one click on Home renders your dictation scoreboard (words, time saved, WPM, rank) as an image, saved to Downloads and copied to the clipboard.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 04 Jul 2026 07:48:54 +0000</pubDate>
+      <enclosure
+        url="https://github.com/keshavatearth/afk-appcast/releases/download/v0.3.0/AFK-0.3.0.dmg"
+        sparkle:edSignature="WgyB1iAdfsNzeTaymsuuru1wgehM5GnDg0Vy/djTiDgwSbckfc9KIaarxpcAHGORQ/yLzYNZK6GQMkLVOUIPBA=="
+        length="5284328"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>AFK 0.2.1</title>
       <sparkle:version>3</sparkle:version>
       <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
