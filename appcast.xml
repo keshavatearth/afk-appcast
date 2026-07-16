@@ -4,6 +4,28 @@
     <title>AFK</title>
     <description>On-device dictation for macOS.</description>
     <item>
+      <title>AFK 0.4.0</title>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h3>Transcriptions that survive, and a language picker</h3>
+<ul>
+  <li><b>File transcriptions keep running</b> when you switch tabs or close the window &mdash; with a real progress bar. Finished results stick around for an hour (even across a relaunch) so you can't lose one by clicking away.</li>
+  <li><b>Save to keep</b> &mdash; saving a transcript records it in History's new <i>Files</i> tab (where it went, how long the audio was, how fast it transcribed). AFK never stores the transcript text itself; unsaved results expire after an hour.</li>
+  <li><b>Default language</b> &mdash; pick your dictation language in Settings (English by default). This also fixes the rare case where English speech came out in Cyrillic. Applies instantly, no relaunch.</li>
+  <li><b>CLI</b>: <code>afk transcribe file.mp3 --lang en</code>.</li>
+  <li>"Delete all history" now asks first &mdash; and never cancels a transcription in progress.</li>
+</ul>
+      ]]></description>
+      <pubDate>Thu, 16 Jul 2026 16:21:10 +0000</pubDate>
+      <enclosure
+        url="https://optionafk.com/updates/AFK-0.4.0.dmg"
+        sparkle:edSignature="6lXxa4bSZpwtFJGgU/A4MN9RMO8/HxWXaedOAmQTSg/RBZ5D4WbhkynB1KRUuW8iv4wfBivRux45N48KlwKdCQ=="
+        length="5371546"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>AFK 0.3.0</title>
       <sparkle:version>5</sparkle:version>
       <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
