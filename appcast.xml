@@ -4,6 +4,30 @@
     <title>AFK</title>
     <description>On-device dictation for macOS.</description>
     <item>
+      <title>AFK 0.4.1</title>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h3>Stability release — nine fixes from real crash reports</h3>
+<ul>
+  <li><b>Fixed the hotkey crash.</b> A mic hiccup (AirPods switching, waking from sleep) could make every following dictation attempt crash the app until relaunch. Crash reports from the field confirmed it; it's gone. Failures now show a message with what to do instead.</li>
+  <li><b>The recording pill is reliable</b> on fast back-to-back dictations — stale hide animations can no longer make it invisible mid-recording.</li>
+  <li><b>Filler-word removal is on by default</b> (it was accidentally off for fresh installs). Conservative list: um, uh, hmm and friends — never real words. If you'd turned it off, your choice stands.</li>
+  <li><b>Long file transcriptions can't be lost at the finish line</b> — a sliver-length final chunk or one bad patch of audio no longer throws away hours of finished text.</li>
+  <li><b>Dictation history is safer</b>: saves moved off the UI thread, and a corrupt file now heals (with a backup) instead of silently wiping your archive.</li>
+  <li>Dictionary entries now replace whole words only — "cat → Kat" no longer turns "category" into "Kategory".</li>
+  <li>A busy or frozen app can no longer stall the hotkey listener while AFK asks it where to type.</li>
+</ul>
+      ]]></description>
+      <pubDate>Sun, 19 Jul 2026 03:33:12 +0000</pubDate>
+      <enclosure
+        url="https://optionafk.com/updates/AFK-0.4.1.dmg"
+        sparkle:edSignature="O4uEKj3d2vG4VGGKMe/yetcVq2Ym0+zgJP0ns8t2dxHUrSLVplE3u08jI4G7qJ/A72Dc+uHQFgdomdTAW5OYAQ=="
+        length="5379185"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>AFK 0.4.0</title>
       <sparkle:version>6</sparkle:version>
       <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
