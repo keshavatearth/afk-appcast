@@ -4,6 +4,25 @@
     <title>AFK</title>
     <description>On-device dictation for macOS.</description>
     <item>
+      <title>AFK 0.4.2</title>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h3>Tell me what to build next</h3>
+<ul>
+  <li><b>New menu item: &ldquo;Request a Feature&hellip;&rdquo;</b> &mdash; opens the public ⌥AFK feature board, where you can post an idea or vote on someone else&rsquo;s. No account, no email required, same as the app itself. What gets voted up is what I build next.</li>
+  <li>The board also carries a roadmap and a changelog, so you can see what&rsquo;s in flight.</li>
+</ul>
+      ]]></description>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <enclosure
+        url="https://optionafk.com/updates/AFK-0.4.2.dmg"
+        sparkle:edSignature="0I28qlqYhgo9lRWxDjGYDCRTXfVT48U5ATsUNfjag4zhLvSUtZttmLwD56HNRmWX+rl48EjdqIvkGyGd52TiCA=="
+        length="5378327"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>AFK 0.4.1</title>
       <sparkle:version>7</sparkle:version>
       <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
