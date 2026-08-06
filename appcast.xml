@@ -4,6 +4,26 @@
     <title>AFK</title>
     <description>On-device dictation for macOS.</description>
     <item>
+      <title>AFK 0.4.3</title>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h3>Choose your dictation shortcuts</h3>
+        <ul>
+          <li>Configure the hold-to-dictate key and the hands-free start and stop sequences.</li>
+          <li>Shortcut fields update every instruction in AFK and include one-click restore defaults.</li>
+          <li>The default shortcuts remain Right Option, Right Option + A-F-K, and Right Option + Return.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 06 Aug 2026 22:52:54 +0000</pubDate>
+      <enclosure
+        url="https://github.com/keshavatearth/afk-appcast/releases/download/v0.4.3/AFK-0.4.3.dmg"
+        sparkle:edSignature="UY1FLbd7VYOhBuntd8+gKVmI/GEBTvrckBuX2ZnLIq4Z2VMdc3X7e0zUD2R42c618INLWoKctcWOKJmJHmJyAQ=="
+        length="5433306"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>AFK 0.4.2</title>
       <sparkle:version>8</sparkle:version>
       <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
