@@ -4,6 +4,18 @@
     <title>AFK</title>
     <description>On-device dictation for macOS.</description>
     <item>
+      <title>AFK 0.4.4</title>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <pubDate>Fri, 21 Aug 2026 21:48:08 +0000</pubDate>
+      <enclosure
+        url="https://github.com/keshavatearth/afk-appcast/releases/download/v0.4.4/AFK-0.4.4.dmg"
+        sparkle:edSignature="zwyzOAkfmaRK3PTlMzOu0S/laMc9shM+9U2Rj9sGbebsBk26foPeH64EhB87P9QBGHZ2ZIOZ9kLSd3ac5EAdCw=="
+        length="5463349"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>AFK 0.4.3</title>
       <sparkle:version>9</sparkle:version>
       <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
