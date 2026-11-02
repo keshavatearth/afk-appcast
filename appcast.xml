@@ -4,6 +4,32 @@
     <title>AFK</title>
     <description>On-device dictation for macOS.</description>
     <item>
+      <title>AFK 0.5.0</title>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h3>AFK can transcribe videos now</h3>
+        <ul>
+          <li>Drop MP4, MOV or M4V videos into Transcribe: screen recordings, iPhone videos, Zoom and Loom downloads. AFK transcribes the video's audio on your Mac.</li>
+        </ul>
+        <h3>Smaller improvements</h3>
+        <ul>
+          <li>Save finished transcripts to a folder automatically, as TXT, SRT or JSON. Existing files are never overwritten.</li>
+          <li>A smaller recording indicator, in Settings → Dictation, with both sizes shown side by side.</li>
+          <li>If part of a long file can't be transcribed, AFK keeps the rest and tells you which part is missing, instead of skipping it silently.</li>
+          <li>The Delete all history confirmation now says exactly what it removes.</li>
+          <li>The bundled Agent Skill covers video files.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 02 Nov 2026 11:57:10 +0000</pubDate>
+      <enclosure
+        url="https://github.com/keshavatearth/afk-appcast/releases/download/v0.5.0/AFK-0.5.0.dmg"
+        sparkle:edSignature="yLK+h0RDJ5EmRsJDH+vnvvoeIF7HbPe4KekVzpq7eCQSeIN5gdBtszuCe+hQqz9aiGRs8N+4lxGuPOaFMpa7Dw=="
+        length="5528052"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>AFK 0.4.5</title>
       <sparkle:version>11</sparkle:version>
       <sparkle:shortVersionString>0.4.5</sparkle:shortVersionString>
