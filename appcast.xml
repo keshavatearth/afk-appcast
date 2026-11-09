@@ -4,6 +4,32 @@
     <title>AFK</title>
     <description>On-device dictation for macOS.</description>
     <item>
+      <title>AFK 0.5.1</title>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h3>Your earbuds and AFK get along now</h3>
+        <p>If you held the key right after your AirPods or other Bluetooth earbuds connected, AFK could crash. Sorry about that. Bluetooth mics change how they send audio the moment they connect, and AFK kept listening the old way. Now it keeps up: switch mics whenever you like, even halfway through a dictation, and the recording carries on.</p>
+        <p>One honest catch: on Bluetooth there's a short pause between holding the key and AFK hearing you, because macOS first flips your earbuds into call mode. Start talking a beat later and you won't lose a word. Wired earphones and your Mac's own mic don't have the pause.</p>
+        <h3>Also fixed and added</h3>
+        <ul>
+          <li><b>No more pasting your previous dictation.</b> When an app was busy, it sometimes pasted the dictation before last instead of the one you just said. AFK now waits until the app has actually taken your text before it puts your clipboard back, and it puts all of it back, images and files included.</li>
+          <li><b>A failed transcription isn't lost anymore.</b> AFK keeps the audio of each dictation on your Mac for 24 hours, then deletes it. If one fails, it's waiting at the top of Notes with a Try again button. Clear it any time in Settings → Data.</li>
+          <li>The recording waveform starts flat every time, and keeps pace on Bluetooth mics.</li>
+          <li>The sidebar icons lost their blue.</li>
+          <li>Questions, problems or ideas? My email is now in Settings → About: keshavatearth@gmail.com. I read every one.</li>
+        </ul>
+        <p>Keshav</p>
+      ]]></description>
+      <pubDate>Mon, 09 Nov 2026 12:03:59 +0000</pubDate>
+      <enclosure
+        url="https://github.com/keshavatearth/afk-appcast/releases/download/v0.5.1/AFK-0.5.1.dmg"
+        sparkle:edSignature="Mwnxy85xlgMRQtMH3bNnEMkn/NfhU+5whY/KEO31zrx8UOCd+IafFjnG4rZnv6N4PXlYDKVeQbYlUYGgZ/SoCQ=="
+        length="5610876"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>AFK 0.5.0</title>
       <sparkle:version>12</sparkle:version>
       <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
