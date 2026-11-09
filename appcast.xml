@@ -4,6 +4,28 @@
     <title>AFK</title>
     <description>On-device dictation for macOS.</description>
     <item>
+      <title>AFK 0.5.2</title>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>0.5.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h3>A small tidy-up</h3>
+        <p>Nothing new to learn in this one.</p>
+        <ul>
+          <li>The two links on the Automation screen were the only blue left in the app. They now match everything else.</li>
+          <li>"See what it teaches" opens the agents section of the CLI guide directly.</li>
+        </ul>
+        <p>One more thing, on the website rather than in the app: if AFK isn't for you, I'll refund you within seven days of buying it, no questions asked. The details are at <a href="https://optionafk.com/support/#refunds">optionafk.com/support</a>.</p>
+        <p>Keshav</p>
+      ]]></description>
+      <pubDate>Mon, 09 Nov 2026 21:02:15 +0000</pubDate>
+      <enclosure
+        url="https://github.com/keshavatearth/afk-appcast/releases/download/v0.5.2/AFK-0.5.2.dmg"
+        sparkle:edSignature="BcA37sKYnLThFmpgSHUvl9Ohp5rqvHBEjxmvoFmyldyKTSvU9nZIAavv6iX/qvqTlKx7HW2cEsW6J/pHgWP0Dw=="
+        length="5610984"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>AFK 0.5.1</title>
       <sparkle:version>13</sparkle:version>
       <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
